@@ -1,2 +1,1 @@
-Added a file
-Edit 1 : currently in test branch and editing it.
+Added a file while in master
